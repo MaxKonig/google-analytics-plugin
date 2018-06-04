@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-google-analytics",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "description": "Google Universal Analytics Plugin",
   "cordova": {
     "id": "cordova-plugin-google-analytics",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwilson/google-analytics-plugin.git"
+    "url": "https://github.com/MaxKonig/google-analytics-plugin.git"
   },
   "keywords": [
     "cordova",
@@ -26,6 +26,6 @@
     "universal",
     "universalanalytics"
   ],
-  "author": "Dan Wilson",
+  "author": "Dan Wilson, Max König",
   "license": "MIT"
 }
